@@ -3,6 +3,7 @@
 
 html {
 	background-color: #202227;
+	font-family: "proxima-nova";
 }
 
 header  {
@@ -12,8 +13,5 @@ header  {
 	height: 70px;
 	position: fixed;
 	background-color: #4A4A4A;
-
 }
-
-
 

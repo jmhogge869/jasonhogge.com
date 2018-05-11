@@ -2,16 +2,11 @@
 /* CSS Document */
 
 html {
-	background-color: #202227;
+	background-color: #353232;;
 	font-family: "proxima-nova";
 }
 
-header  {
-	
-	display:flex;
-	width: 100%;
-	height: 70px;
-	position: fixed;
-	background-color: #4A4A4A;
+.navbar-default {
+    background-color: #353232;
+    border-color: #353232;
 }
-
